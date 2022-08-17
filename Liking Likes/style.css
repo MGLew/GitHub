@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.NavBar{
+    margin: 0;
+    padding: 0;
+    width: 800px;
+    height: 75px;
+    background-color: black;
+    position: absolute;
+    top: 2px;
+    margin-left: 900px;
+}
+.containter1{
+    width: 550px;
+    height: 200px;
+    border-style: solid;
+    position: absolute;
+    top: 100px;
+    left: 245px;
+    margin-top: 50px;
+    
+}
+.containter1 h1{
+    font-size: 2em;
+    font-weight: 520;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.containter1 h3{
+    font-weight: 530;
+    position: absolute;
+    top: 25px;
+    right: 150px;
+}
+.containter1 button{
+    width: 50px;
+    height: 35px;
+    background-color: gold;
+    box-shadow: 3px 3px;
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+.info1{
+    position: absolute;
+    top: 100px;
+    left: 41px;
+    
+    
+}
+.containter1 p{
+    font-size: 1.4em;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.containter2{
+    width: 550px;
+    height: 200px;
+    border-style: solid;
+    position: absolute;
+    top: 325px;
+    left: 245px;
+    margin-top: 50px;
+}
+.containter2 h1{
+    font-size: 2em;
+    font-weight: 520;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.containter2 h3{
+    font-weight: 530;
+    position: absolute;
+    top: 25px;
+    right: 150px;
+}
+.containter2 button{
+    width: 50px;
+    height: 35px;
+    background-color: gold;
+    box-shadow: 3px 3px;
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+.info2{
+    position: absolute;
+    top: 100px;
+    left: 41px;
+    
+    
+}
+.containter2 p{
+    font-size: 1.4em;
+    margin: 0;
+    padding: 0;
+    
+}
+.containter3{
+    width: 550px;
+    height: 200px;
+    border-style: solid;
+    position: absolute;
+    top: 550px;
+    left: 245px;
+    margin-top: 50px;
+}
+.containter3 h1{
+    font-size: 2em;
+    font-weight: 520;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.containter3 h3{
+    font-weight: 530;
+    position: absolute;
+    top: 25px;
+    right: 150px;
+}
+.containter3 button{
+    width: 50px;
+    height: 35px;
+    background-color: gold;
+    box-shadow: 3px 3px;
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+.info3{
+    position: absolute;
+    top: 100px;
+    left: 41px;
+    
+    
+}
+.containter3 p{
+    font-size: 1.4em;
+    margin: 0;
+    padding: 0;
+    
+}
+.containter4{
+    width: 200px;
+    height: 325px;
+    border-style: solid;
+    position: absolute;
+    top: 100px;
+    margin-top: 50px;
+    
+}
+.avatar img{
+    border-radius: 50%;
+    height: 130px;
+    width: 120px;
+    margin-top: 25px;
+    margin-left: 40px;
+}
+.add{
+    position: absolute;
+    left: 30px;
+    top: 190px;
+    
+}
+.add a{
+    font-size: 1.2em;
+}
+.name p{
+    font-size: 1.1em;
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+}
+.name{
+    position: absolute;
+    left: 8px;
+    top: 260px;
+}
+.NavBar h1{
+    position: absolute;
+    left: 20px;
+    top: 15px;
+}
+.h1{
+    color: white;
+    font-weight: 200;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h1 div p{
+    font-weight: 500;
+    color: black;
+    font-size: 2em;
+    position: absolute;
+    top: 90px;
+    left: 300px;
+}
+
+
